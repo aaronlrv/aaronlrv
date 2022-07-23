@@ -2,7 +2,7 @@
 <img height="500" src = "https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-- 🔭 I’m currently working on **CV Application**
+- 🔭 I’m currently working on <b>CV Application</b>
 
 - 🌱 I’m currently learning **React & TailwindCSS**
 
