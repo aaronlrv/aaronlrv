@@ -2,7 +2,8 @@
 <img  src = "https://64.media.tumblr.com/cbc7fb734b7d881f8e3fe1e3bd2b22a0/f5086ac2846e4387-c5/s1280x1920/c7adbe97cbb74abf83d4481aff280466a7e9ec02.gifv">
 </p>
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-- 🔭 I’m currently working on <b>CV Application</b>
+
+- 🔭 I’m currently working on **CV Application**
 
 - 🌱 I’m currently learning **React & TailwindCSS**
 
@@ -10,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/aaron-607b66209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaron-607b66209" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aaronlrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaronlrv" height="30" width="40" /></a>
 </p>
 
