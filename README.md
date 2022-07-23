@@ -1,4 +1,4 @@
-<img height=400 align="center" src = "https://cdn.dribbble.com/users/348324/screenshots/13452073/media/d2deeb38ed5ee7f118acd4d9cefe6ce6.gif">
+<img align="center" height="800" src = "https://cdn.dribbble.com/users/348324/screenshots/13452073/media/d2deeb38ed5ee7f118acd4d9cefe6ce6.gif">
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 - 🔭 I’m currently working on **CV Application**
 
@@ -8,6 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/aaronlrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaronlrv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronlrv&show_icons=true&theme=tokyonight&locale=en" alt="aaronlrv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronlrv&theme=dark" alt="aaronlrv" /></p>
+
