@@ -1,4 +1,4 @@
-<img align="center" src = "https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+<img align="center" height="700" src = "https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 - 🔭 I’m currently working on **CV Application**
 
