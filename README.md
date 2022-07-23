@@ -1,5 +1,5 @@
 <p align="center">
-<img height="500" src = "https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif">
+<img height="400" src = https://cdn.dribbble.com/users/348324/screenshots/13452073/media/d2deeb38ed5ee7f118acd4d9cefe6ce6.gif>
 </p>
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 - 🔭 I’m currently working on <b>CV Application</b>
