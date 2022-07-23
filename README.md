@@ -1,5 +1,5 @@
 <p align="center">
-<img  src = "https://64.media.tumblr.com/cbc7fb734b7d881f8e3fe1e3bd2b22a0/f5086ac2846e4387-c5/s1280x1920/c7adbe97cbb74abf83d4481aff280466a7e9ec02.gifv">
+<img  src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 </p>
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 
