@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 
-- 🔭 I’m currently working on **Shopping Cart**
+- 🔭 I’m currently working on <a href="https://github.com/aaronlrv/shopping-cart"> **Shopping Cart** </a>
 
 - 🌱 I’m currently learning **React & TailwindCSS**
 
